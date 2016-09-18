@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://36.33.40.84:9000/uploads/file/wqgj_versioncontrol/2016-09-18/7b39ee368b6d47a78fbbef46afa9182d.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://36.33.24.15:18079/uploads/image.57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://36.33.24.15:18079/uploads/image.512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.tydic.mideaer</string>
+				<key>bundle-version</key>
+				<string>1.7</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>美人</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
